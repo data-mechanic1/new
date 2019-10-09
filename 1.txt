@@ -1,0 +1,2 @@
+Hello this file i have created with nano 1.txt command.
+
